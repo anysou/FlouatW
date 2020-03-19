@@ -1,3 +1,4 @@
 rootProject.name='FlouatW'
 include ':app'
 include ':app:floatwlibrary'
+include ':app:floatwindows'
